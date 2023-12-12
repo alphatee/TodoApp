@@ -1,0 +1,10 @@
+@5:24 from video: https://www.youtube.com/watch?v=Lqh1j1H5pkg&list=WL&index=15
+and tutorial: https://docs.abp.io/en/abp/latest/Tutorials/Todo/Index?UI=NG&DB=EF
+
+
+---Read Below for fun---
+read this :
+https://abp.io/
+
+and (read first)
+https://www.abp.io/project-created-success?ui=Angular&db=EntityFrameworkCore&tiered=no
