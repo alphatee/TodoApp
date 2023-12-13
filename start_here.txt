@@ -1,3 +1,18 @@
+*********************************************************************************************************
+------Tutorial/Documentation Credit------ [the basis of my project is derived from their contributions]
+*********************************************************************************************************
+
+Tutorial by Hamza Albreem @ https://www.youtube.com/watch?v=Lqh1j1H5pkg&list=WL&index=16
+Name of video: "Build a Simple To Do App with ABP Framework [Angular+ Entity Framework Core]"
+Published by: Volosoft channel on Youtube
+
+Documentation Followed : https://docs.abp.io/en/abp/latest/Tutorials/Todo/Index?UI=NG&DB=EF
+
+
+*********************************************************************************************************
+											 [Notes for myself below]
+*********************************************************************************************************
+
 @5:24 from video: https://www.youtube.com/watch?v=Lqh1j1H5pkg&list=WL&index=15
 and tutorial: https://docs.abp.io/en/abp/latest/Tutorials/Todo/Index?UI=NG&DB=EF
 
@@ -8,3 +23,4 @@ https://abp.io/
 
 and (read first)
 https://www.abp.io/project-created-success?ui=Angular&db=EntityFrameworkCore&tiered=no
+
